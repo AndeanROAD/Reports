@@ -1,13 +1,12 @@
 ## Scope
 
-The 2015-2016 marks the First Year of operations of the 
-the Andean ROAD. Every year we report back to the OAD with the
-activities that passed and the plans for the following year. Our
-evaluators comment on our results and suggest changes for next year of
-operations. 
+The 2015-2016 marks the First Year of operations for the Andean
+ROAD. We have to report back to the OAD with the  activities that
+passed and the plans for the following year. Our reviewers comment on
+our results and suggest changes for next year of operations. 
+ 
 
-
-## Evaluators
+## Reviewers
 
 * Gustavo Bruzual (Venezuela, Mexico)  
 * Kevin Govender (South Africa)
@@ -31,7 +30,7 @@ operations.
   - Share draft plan with the Andean ROAD collaboration.
   - Write final report following comments from the
   collaboration.  
-  - Make telecons to define 2016-2017 priorities.  
+  - Make telecons to finalize our opinion about 2016-2017 priorities. 
 
 * September. 
   - Make first version of the 2016-2017 plan.
@@ -41,7 +40,7 @@ operations.
   - Share document with evaluators, OAD 
 
 * October. 
-  - Evaluation committe interviews the Andean ROAD coordinators at
+  - Review committe interviews the Andean ROAD coordinators at
   LARIM2016 in Cartagena. 
-  - Evaluation commitee writes the report.
-  - Evaluation report is shared witht the Andean ROAD.
+  - Review committee writes the report.
+  - Review report is shared witht the Andean ROAD.
