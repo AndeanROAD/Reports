@@ -18,6 +18,8 @@ operations.
 
 * July. 
  - Define timeline.   
+ - Define what kind of information we need to evaluate/track ongoing
+ projects. 
  - Gather information about the status of all projects.
  - Gather information about 2016-2017 priorities through a "mini-call
  for proposals" 
