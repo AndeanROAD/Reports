@@ -5,11 +5,11 @@
   - Find new possible european funding sources for OAD projects.
   - Understand the Project Cycle of big European funders.
 
-* CAP2016 was hosted in Colombia last July. It was very productive in terms of presenting the Andean ROAD to the community.
+* CAP2016 was hosted in Colombia last June. It was very productive in terms of presenting the Andean ROAD to the community.
 
-* In July 2016 (during CAP2016) the 4 Andean ROAD coordinators had a meeting with Rosa Doran (Portuguese LOAD) to start planning collaboration.
+* In June 2016 (during CAP2016) the 4 Andean ROAD coordinators had a meeting with Rosa Doran (Portuguese LOAD) to start planning collaboration.
 
-* In July 2016 (during CAP2016) The TF2 coordinator received the Quality Lighting Teaching Kit.
+* In June 2016 (during CAP2016) The TF2 coordinator received the Quality Lighting Teaching Kit.
 
 * In September 2016 we will have our first TF2 Andean Meeting in Peru.
 
