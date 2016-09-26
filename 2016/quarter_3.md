@@ -2,7 +2,7 @@
 
 * Gave feedback to 40+ OAD expressions of interest. Decided to support twelve of them (6 TF1, 5 TF2, 1 TF3). Started to work directly with three projects.
 
-* Will have first Steering Committee Meeting later this week (September 29, 2016).
+* Will have our first Steering Committee Meeting later this week (September 29, 2016).
 
 
 
