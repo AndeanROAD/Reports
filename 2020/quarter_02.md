@@ -1,0 +1,4 @@
+* Succesful Erasmus+ Twinning Programme (International Credit Mobility Grant) application. The proposal was submitted by the E-ROAD (Michelle Willebrands)
+* Jaime E. Forero-Romero participated in the Astronomy for Development Lunch Session during the EAS 2020 Annual Meeting (Thanks to Michelle Willebrands and Pedro Ruso). 
+* We are holding bi-weekly telecons to define the continuation of the Andean ROAD for 2021-2025. We are going to focus into a small number of projects: astroturism, setting up
+outreach observatories in collaboration with indigeneous communities, training school teachers and developing computational abilities.
